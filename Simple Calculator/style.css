@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    margin-top: 160px;
+}
+#firstNum{
+    font-size: 35px;
+    font-family: 'Roboto', 'sans-serif';
+    text-decoration: underline;
+    color: rgb(228, 84, 1);
+}
+#secondNum{
+    font-size: 35px;
+    font-family: 'Roboto', 'sans-serif';
+    text-decoration: underline;
+    padding-left: 10px;
+    color: rgb(228, 84, 1);
+}
+.btn-set{
+    margin-top: 20px;   
+}
+.button{
+    padding: 15px 40px;
+    border: none;
+    background: blue;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;  
+}
+.btn-add{
+    padding: 15px 50px;
+}
+.sum{
+    font-weight: bold;
+    font-size: 28px;
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+    color:rgb(11, 110, 110);
+}
+
