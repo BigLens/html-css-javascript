@@ -1,0 +1,32 @@
+body{
+    background: green;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
+.blackjack{
+    color: goldenrod;
+    font-size: 40px;
+}
+.message{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.btn-set{
+    padding: 15px 30px;
+    border-radius: 22px;
+    border: none;
+    background: red;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Trebuchet MS';
+    margin: 5px;
+}
+.btn-newcard{
+    width: 175px
+}
+#theMessage{
+    color: white
+}

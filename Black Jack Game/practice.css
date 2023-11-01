@@ -1,0 +1,18 @@
+#apple{
+    background: red;
+    border: 1px solid red;
+    border-radius: 25px;
+    width: 400px;
+    height: 70px;
+    margin-bottom: 20px;
+}
+#orange{
+    background: orange;
+    border: 1px solid orange;
+    border-radius: 25px;
+    width: 400px;
+    height: 70px;
+}
+body{
+    margin-top: 200px;
+}
