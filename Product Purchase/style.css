@@ -1,3 +1,31 @@
 *{
     box-sizing: border-box;
 }
+.products{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.first-image{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    border: 1px solid red;
+}
+.second-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    border: 1px solid green;
+}
+.third-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    border: 1px solid blue;
+}
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;;
+}
