@@ -11,14 +11,26 @@
 </head>
 <body>
     <div class="products">
-        <img src="images/pngone.jpg" alt="product image" class="first-image">
-        <img src="images/newome.webp" alt="product image" class="second-image">
-        <img src="images/producttwo.jpg" alt="product image" class="third-image">
-    </div>
-    <div class="btn">
-        <button>PURCHASE $250</button>
-        <button>PURCHASE $120</button>
-        <button>PURCHASE $310</button>
+        <div class="first-container">
+            <img src="images/pngone.jpg" alt="product image" class="first-image" class="product-btn" >
+            <div>
+                <button id="btn" class="btn-one">PURCHASE:           $250</button>
+                <p id="text" class="texts-one"></p>
+            </div>
+        </div>
+        <div class="second-container">
+            <img src="images/newome.webp" alt="milk image" class="image-two">
+            <div>
+                <button id="second-btn" class="button-two">PURCHASE $120</button>
+                <p id="btntwo"></p>
+            </div>
+        </div>
+        <div class="third-container">
+            <img src="images/producttwo.jpg" alt="" class="img-three">
+            <div>
+                <button id="last-btn" class="btn-third">PURCHASE $400</button>
+            </div>
+        </div>
     </div>
         <script src="index.js"></script>
 </body>
